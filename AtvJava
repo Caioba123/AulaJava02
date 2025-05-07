@@ -1,0 +1,38 @@
+
+
+1 Quesito
+
+public static void main(String[] args) {
+        Scanner  scan = new Scanner(System.in);
+        int valor1 = scan.nextInt();
+        int valor2 = scan.nextInt();
+        int multiplicacao = valor1*valor2;
+        System.out.println(multiplicacao);
+
+
+2 Quesito
+
+
+
+3 Quesito
+
+Scanner sc = new Scanner(System.in);
+int numero1 = sc.nextInt();
+
+for (int divisor = 1; divisor <= numero1; divisor++){
+    
+    if (num % divisor !=0) {
+        continue;
+}
+    else {
+        System.out.println("Divisor de" + num + ":" +divisor);
+           }
+
+       }
+   }
+    
+}
+
+4 Quesito 
+
+
